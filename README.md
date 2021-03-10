@@ -4,3 +4,4 @@ The objective was to create an interactive design includng a create account form
 I decided to represent this as a mobile app, I have generated the design into HTML and uploaded the code.
 Below is the link to view the design and actively use it.
 https://fkc5qt.axshare.com
+(Please note the design may differ when opening in GIT due to uploading)
